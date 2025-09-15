@@ -646,53 +646,54 @@ img {
 .startup__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 4rem;
+    gap: 3rem;
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
 }
 
 .startup__content {
-    padding-right: 3rem;
+    padding-right: 1.5rem;
+    padding-left: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 95%;
 }
 
 .startup__description {
     color: var(--text-color);
-    line-height: 1.8;
-    margin-bottom: 2rem;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
     font-size: var(--large-font-size);
-}
-
-.startup__team {
-    margin-top: 2rem;
 }
 
 .startup__team-title {
     color: var(--title-color);
     font-size: var(--h3-font-size);
+    margin-bottom: 0.8rem;
+}
+
+.startup__team-text {
+    color: var(--text-color);
+    font-size: var(--large-font-size);
+    line-height: 1.6;
     margin-bottom: 1rem;
 }
 
-.startup__team-list {
-    list-style: none;
-    margin-left: 0;
+.startup__contact {
+    margin-top: 1.5rem;
 }
 
-.startup__team-list li {
+.startup__contact-text {
     color: var(--text-color);
-    margin-bottom: 0.75rem;
-    padding-left: 1.5rem;
-    position: relative;
-    line-height: 1.6;
-    font-size: var(--large-font-size);
-}
-
-.startup__team-list li::before {
-    content: '👤';
-    font-size: 1rem;
-    position: absolute;
-    left: 0;
-    top: 0;
+    font-size: var(--small-font-size);
+    font-style: italic;
+    opacity: 0.8;
+    line-height: 1.5;
 }
 
 .startup__logo-wrapper {
@@ -700,16 +701,16 @@ img {
     justify-content: center;
     align-items: center;
     height: 100%;
-    min-height: 400px;
 }
 
 .startup__logo {
-    width: 400px;
-    height: 400px;
-    object-fit: cover;
+    width: 475px;
+    height: 475px;
+    object-fit: contain;
     border-radius: 1rem;
-    box-shadow: 0 10px 30px rgba(123, 97, 255, 0.3);
+    background-color: transparent;
     transition: transform 0.3s ease;
+    padding: 1.5rem;
 }
 
 .startup__logo:hover {
@@ -735,6 +736,7 @@ img {
     .startup__logo {
         width: 300px;
         height: 300px;
+        padding: 1.5rem;
     }
 }
 
