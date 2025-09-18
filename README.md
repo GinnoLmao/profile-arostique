@@ -58,54 +58,6 @@ A modern, responsive personal portfolio website showcasing my background, expert
 - Team information and project description
 - Visual logo display
 
-## 🛠️ Technologies Used
-
-- **HTML5**: Semantic markup and structure
-- **CSS3**: Modern styling with CSS Grid, Flexbox, and custom properties
-- **Font Awesome**: Icons for social media and hobbies
-- **Google Fonts**: Jost font family for typography
-- **Responsive Design**: Mobile-first approach with media queries
-
-## 🎨 Design Features
-
-### Color Scheme
-```css
---first-color: hsl(268, 77%, 58%)        /* Primary Purple */
---first-color-dark: hsl(268, 85%, 32%)   /* Dark Purple */
---first-color-light: hsl(268, 52%, 77%)  /* Light Purple */
---title-color: hsl(0, 100%, 99%)         /* White */
---text-color: hsl(0, 0%, 69%)            /* Light Gray */
---body-color: hsl(200, 12%, 5%)          /* Dark Background */
---container-color: hsl(200, 10%, 8%)     /* Container Background */
-```
-
-### Animations
-- Morphing blob animation for profile picture
-- Hover effects on cards and buttons
-- Smooth transitions throughout the site
-- Scale animations on interactive elements
-
-## 📁 File Structure
-
-```
-App Development Profile/
-├── index.html              # Main HTML file
-├── style.css              # Styles and animations
-├── README.md              # Project documentation
-└── assets/                # Image assets
-    ├── GinnoProfile.png   # Main profile image
-    ├── ArostiquePic.jpg   # About section image
-    ├── startup.png        # LiveStock logo
-    ├── Song1.png          # Song cover images
-    ├── Song2.png
-    ├── Song3.png
-    ├── Song4.png
-    ├── Song5.png
-    ├── Song6.png
-    ├── GinnoPic.png       # Favicon
-    └── startup.png        # Startup logo
-```
-
 ## 💼 Featured Projects
 
 ### Development Projects
@@ -174,22 +126,5 @@ cd "App Development Profile"
 - **Instagram**: [@ginno.hehe](https://www.instagram.com/ginno.hehe/)
 - **TikTok**: [@rokulmao](https://www.tiktok.com/@rokulmao)
 
-## 👥 LiveStock Team
-
-- Ginno D. Arostique Jr.
-- Justin Jones Brey
-- Joseph Mari Cordero
-- Leann Villaruel
-
-## 📜 License
-
-This project is for personal portfolio use. Feel free to use as inspiration for your own portfolio website.
-
-## 🤝 Contributing
-
-This is a personal portfolio project, but suggestions and feedback are welcome! Feel free to reach out through any of the contact methods listed above.
-
----
-
-**Built with ❤️ by Ginno D. Arostique Jr.**  
+**Ginno D. Arostique Jr.**  
 *Computer Science Student | AI Enthusiast | Startup Founder*
