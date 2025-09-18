@@ -1,5 +1,7 @@
 # Ginno D. Arostique Jr. - Personal Portfolio Website
 
+🌐 **Live Demo:** [https://profile-arostique.vercel.app/](https://profile-arostique.vercel.app/)
+
 A modern, responsive personal portfolio website showcasing my background, expertise, and projects as a Computer Science student specializing in AI and machine learning.
 
 ## 🌟 Features
@@ -9,6 +11,8 @@ A modern, responsive personal portfolio website showcasing my background, expert
 - **Interactive Sections**: Multiple sections showcasing different aspects of my profile
 - **Dynamic Animations**: Animated profile image with morphing blob effects
 - **Purple Theme**: Consistent color scheme with purple accents throughout
+- **Project Portfolio**: Comprehensive showcase of 8 diverse projects with detailed descriptions
+- **Tech Stack Visualization**: Interactive tags displaying technologies used in each project
 
 ## 📋 Sections
 
@@ -27,6 +31,8 @@ A modern, responsive personal portfolio website showcasing my background, expert
 - **Software Development & Engineering**: Full-stack development, modern frameworks
 - **Startup & Project Development**: Arc.ai and LiveStock project experience
 - **Data Systems & Infrastructure**: Database management, big data processing
+- **Web Design and Development**: Modern web technologies, responsive design, full-stack development
+- **UI/UX Design**: User interface design, prototyping, accessibility principles
 
 ### 🎯 Hobbies
 - Football/Soccer
@@ -39,7 +45,13 @@ A modern, responsive personal portfolio website showcasing my background, expert
 ### 🎵 Songs
 - Curated playlist of 6 songs that represent my personality
 - Interactive song cards with YouTube links
-- Artists: Kendrick Lamar, Daniel Caesar, Frank Ocean, Khalid, Kanye West, SZA
+- Artists: Kendrick Lamar, Daniel Caesar, Frank Ocean, Khalid, Kanye West, Future/Drake/Tems
+
+### 💼 Projects
+- **8 Featured Projects** showcasing diverse technical skills
+- Project cards with role descriptions and tech stacks
+- 4×2 grid layout for optimal viewing experience
+- Projects spanning UI development, full-stack development, AI/ML, IoT, and game development
 
 ### 🚀 Startup
 - **LiveStock**: AI-powered livestock weight measurement solution
@@ -83,18 +95,30 @@ App Development Profile/
 └── assets/                # Image assets
     ├── GinnoProfile.png   # Main profile image
     ├── ArostiquePic.jpg   # About section image
-    ├── startup.jpg        # LiveStock logo
-    ├── song1.jpg          # Song cover images
-    ├── song2.jpg
-    ├── song3.jpg
-    ├── song4.jpg
-    ├── song5.jpg
-    ├── song6.jpg
-    ├── quote1.jpg         # Quote character images
-    ├── quote2.jpg
-    ├── quote3.png
-    └── quote4.jpg
+    ├── startup.png        # LiveStock logo
+    ├── Song1.png          # Song cover images
+    ├── Song2.png
+    ├── Song3.png
+    ├── Song4.png
+    ├── Song5.png
+    ├── Song6.png
+    ├── GinnoPic.png       # Favicon
+    └── startup.png        # Startup logo
 ```
+
+## 💼 Featured Projects
+
+### Development Projects
+1. **Presence** - C++ Qt attendance management application
+2. **Meal Buddy** - Linear regression meal planning app with Flask
+3. **WV Solutions** - React.js marketplace for WVSU students
+4. **Farmmageddon** - Unity farm survival game with AI zombies
+
+### Advanced Projects
+5. **Moodify** - Java music recommendation system based on mood analysis
+6. **IoT Devices** - Arduino-based smart home security systems
+7. **Arc.ai** - Django hierarchical file repository system
+8. **LiveStock** - Computer vision pig weight detection with IoT integration
 
 ## 🚀 Getting Started
 
@@ -132,7 +156,8 @@ cd "App Development Profile"
 2. **Expertise Areas**: Modify the expertise cards content
 3. **Hobbies**: Update hobby items with your interests
 4. **Songs**: Replace with your favorite tracks
-5. **Startup Information**: Update with your project details
+5. **Projects**: Update project descriptions, roles, and tech stacks
+6. **Startup Information**: Update with your project details
 
 ### Styling Changes
 1. **Colors**: Modify CSS custom properties in `:root`
