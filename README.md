@@ -72,36 +72,11 @@ A modern, responsive personal portfolio website showcasing my background, expert
 7. **Arc.ai** - Django hierarchical file repository system
 8. **LiveStock** - Computer vision pig weight detection with IoT integration
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML/CSS (for modifications)
-
-### Installation
-1. Clone or download the repository
-2. Ensure all files are in the same directory structure
-3. Add required images to the `assets` folder:
-   - `startup.jpg` - LiveStock logo (square format recommended)
-   - Profile images and other assets as needed
-4. Open `index.html` in your web browser
-
-### Local Development
-```bash
-# Navigate to project directory
-cd "App Development Profile"
-
-# Open with live server (if using VS Code)
-# Or simply double-click index.html
-```
-
 ## 📱 Responsive Breakpoints
 
 - **Desktop**: 1200px and above
 - **Tablet**: 768px - 1199px
 - **Mobile**: Below 768px
-
-## 🔧 Customization
 
 ### Updating Content
 1. **Personal Information**: Edit the About section in `index.html`
@@ -111,14 +86,7 @@ cd "App Development Profile"
 5. **Projects**: Update project descriptions, roles, and tech stacks
 6. **Startup Information**: Update with your project details
 
-### Styling Changes
-1. **Colors**: Modify CSS custom properties in `:root`
-2. **Fonts**: Change the Google Fonts import and font-family values
-3. **Layout**: Adjust grid templates and flexbox properties
-4. **Animations**: Modify keyframes and transition properties
-
 ## 📞 Contact Information
-
 - **Email**: ginnojr.arostique@wvsu.edu.ph
 - **Phone**: (+63) 9317138266
 - **Facebook**: [ginno123](https://www.facebook.com/ginno123)
