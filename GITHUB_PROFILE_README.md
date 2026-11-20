@@ -1,80 +1,95 @@
 <div align="center">
 
-# Hey, I'm Ginno 👋
+# Ginno D. Arostique Jr.
 
-**Ginno D. Arostique Jr.**
+### Applied AI · Data Science · Software Engineering
 
-`AI & Machine Learning` · `Data Science & Analytics` · `Software Engineering`
+BS Computer Science, **Major in Artificial Intelligence** at West Visayas State University
 
-**BS Computer Science, Major in Artificial Intelligence · West Visayas State University**
+Gold Parangal Awardee &nbsp;·&nbsp; DOST-SEI Merit Scholar
 
-<a href="https://profile-arostique.vercel.app/">Portfolio</a> · <a href="https://github.com/GinnoLmao?tab=repositories">Repositories</a>
+<p>
+  <a href="https://profile-arostique.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20website-0F766E?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/GinnoLmao?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20projects-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+*Interested in AI/ML, data science, and analytics internship opportunities.*
 
 </div>
 
 ---
 
-### `$ whoami`
+## A little about me
 
-```text
-name        Ginno D. Arostique Jr.
-focus       Applied AI · Machine Learning · Data Science
-building    Research prototypes and practical data-driven systems
-education   BSCS — Artificial Intelligence (WVSU)
-honors      Gold Parangal Awardee · DOST-SEI Merit Scholar
-current     Exploring AI / ML / Data Science internship opportunities
-```
+I work at the intersection of **machine learning, data analysis, and application development**. My projects explore time-series forecasting, natural language processing, computer vision, and practical software systems. I enjoy taking ideas from research and prototypes into usable tools—and documenting the trade-offs along the way.
 
-### `$ ls featured-projects`
+- **Current interests:** Deep learning, information retrieval, predictive modeling, computer vision, and data analytics
+- **Engineering:** APIs, full-stack applications, mobile development, databases, and offline-first workflows
+- **Approach:** Build thoughtfully · evaluate carefully · communicate clearly
 
-| Project | What I'm exploring | Stack |
+## Selected work
+
+| Project | What it explores | Technology |
 | :--- | :--- | :--- |
-| 🌫️ **[ALLERT](https://github.com/GinnoLmao/Allert_Model)** | Particulate-pollution time-series research and BiLSTM forecasting | Python · PyTorch · Data analysis |
-| ♻️ **[BinSync](https://github.com/GinnoLmao/Binsync)** | Resident/collector coordination, geospatial mapping, notifications | Flutter · Firebase · Dart |
-| 🐖 **[LiveStock](https://github.com/GinnoLmao/LiveStock)** | Image-assisted livestock detection and weight estimation (MVP research) | Flutter · Computer Vision |
-| 🐄 **[Cattle Body-Part Detection](https://github.com/GinnoLmao/cattle-body-parts-detection)** | Custom CNN, annotation processing and localization experiments | Python · TensorFlow / Keras |
-| 🧩 **[CybSync](https://github.com/GinnoLmao/CybSync-Attendance-System)** | Attendance-management interface and application architecture | Next.js · React · TypeScript |
+| **[ALLERT — Air Quality Forecasting](https://github.com/GinnoLmao/Allert_Model)** | Particulate-pollution analysis and attention-based BiLSTM time-series research | Python · PyTorch · Data science |
+| **[MediGuide / PharmaCare](https://github.com/Hermes335/PHARMACARE)** | English/Taglish pharmaceutical-information retrieval, NLP classification, and separate LoRA fine-tuning experiments | Python · NLP · Flask · React |
+| **[BinSync](https://github.com/GinnoLmao/Binsync)** | Resident–collector coordination with mobile maps, location services, and Firebase workflows | Flutter · Dart · Firebase |
+| **[LiveStock](https://github.com/GinnoLmao/LiveStock)** | Image-based livestock detection and weight-estimation MVP research; model integration remains experimental in this repository | Flutter · Computer Vision |
+| **[Cattle Body-Part Detection](https://github.com/GinnoLmao/cattle-body-parts-detection)** | Custom CNN, annotated datasets, and anatomical-region localization | Python · TensorFlow · Keras |
+| **[CybSync Attendance System](https://github.com/GinnoLmao/CybSync-Attendance-System)** | Attendance-management interface and application architecture | Next.js · TypeScript · Tailwind CSS |
 
-> Repositories vary in maturity. Some are academic experiments or ongoing prototypes; their READMEs describe implementation status and limitations. Confidential client and banking projects are not linked here.
+<sub>Some repositories are collaborative academic projects or research prototypes. Each project README explains its implementation status, scope, and known limitations. Private client and banking work is intentionally not linked.</sub>
 
-### `$ cat tech-stack.md`
+## Toolbox
 
-**Modeling & AI**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+**AI & Data**
 
-**Data & application development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+**Application Development**
 
-### `$ cat interests.txt`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## What I'm exploring
 
 ```text
-01  Time-series and predictive modeling
-02  NLP, information retrieval and LLM systems
-03  Computer vision and applied machine learning
-04  Data exploration, mining and analysis
-05  Building usable software for real-world problems
+01  Time-series forecasting and predictive modeling
+02  NLP, information retrieval, and LLM fine-tuning
+03  Computer vision and practical AI systems
+04  Data mining, statistical analysis, and visualization
+05  Full-stack and mobile products that solve real problems
 ```
 
 ---
 
 <div align="center">
 
-**Research with rigor. Build with purpose. Keep learning.**
-
-[Explore my repositories](https://github.com/GinnoLmao?tab=repositories)
+**Thanks for visiting.** Explore the projects above or visit my <a href="https://profile-arostique.vercel.app/">portfolio website</a>.
 
 </div>
 
-<!-- SETUP NOTE: GitHub displays a profile README only when README.md is
-in a public repository whose name exactly matches your username: GinnoLmao.
-Copy this content into GinnoLmao/GinnoLmao/README.md after reviewing the
-links and claims. This staging file does not change your profile by itself. -->
+<!--
+PROFILE SETUP
+This is a staging copy in GinnoLmao/profile-arostique.
+For GitHub to display it on the account profile, create the public
+repository GinnoLmao/GinnoLmao and add this content as README.md.
+Do not link private banking/client repositories. Check team attribution
+and technical claims before public publication.
+-->
